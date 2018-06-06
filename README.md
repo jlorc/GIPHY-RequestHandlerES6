@@ -9,6 +9,6 @@
 4. Open console in project directory.<br>
 5. Type in console npm install.<br>
 6. After install type gulp for run tasks and watch for file changes.<br>
-7. You are ready to work!<br>
+7. You are ready to generate your new gif!<br>
 Remove .git folder to prevent unwanted push to this repository.<br>
 </p>
