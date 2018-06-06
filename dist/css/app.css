@@ -1,0 +1,18 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; }
+  .app__image {
+    width: 100%; }
+
+.button {
+  background-color: lightslategray;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 20px;
+  cursor: pointer; }

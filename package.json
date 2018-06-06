@@ -1,0 +1,37 @@
+{
+  "name": "frontend-interview",
+  "version": "0.1.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "keywords": [],
+  "author": "jlorc",
+  "license": "ISC",
+  "dependencies": {
+    "panini": "^1.6.2",
+    "sass": "^1.3.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "browser-sync": "^2.24.4",
+    "del": "^3.0.0",
+    "dest": "^0.3.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^4.0.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-util": "^3.0.8",
+    "rollup": "^0.59.0",
+    "rollup-plugin-babel": "^3.0.4",
+    "rollup-stream": "^1.24.1",
+    "shell": "^0.5.0",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
